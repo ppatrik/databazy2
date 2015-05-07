@@ -1,4 +1,8 @@
 # Projekt Žiacka knižka
-http://s.ics.upjs.sk/~ppekarcik/wp-content/uploads/2015/03/patrik_pekarcik_ERD.png
+## Diagram
 ![diagram](http://s.ics.upjs.sk/~ppekarcik/wp-content/uploads/2015/03/patrik_pekarcik_ERD.png "alternative")
-[SQL scheme](https://github.com/ppatrik/databazy2/blob/master/projekt.md)
+
+[OPEN](http://s.ics.upjs.sk/~ppekarcik/wp-content/uploads/2015/03/patrik_pekarcik_ERD.png)
+
+## Scheme
+[OPEN](https://github.com/ppatrik/databazy2/blob/master/projekt.sql)
